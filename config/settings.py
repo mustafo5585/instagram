@@ -27,7 +27,11 @@ SECRET_KEY = 'django-insecure-$8zh7l1b2ak1fwm%wjq2!8j)4eow0aff-7ednwotwqb-#zifmv
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["instagram-two-opal.vercel.app","instagram-93g944b0z-xikmatovmustafo5585-7464s-projects.vercel.app"]
+ALLOWED_HOSTS = ['instagram-two-opal.vercel.app',
+                 'instagram-izue9fc72-xikmatovmustafo5585-7464s-projects.vercel.app'
+                 
+                 
+                 ]
 
 
 
